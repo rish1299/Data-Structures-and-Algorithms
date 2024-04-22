@@ -1,4 +1,4 @@
-package Soring_Algo;
+package sorting_Algo;
 
 public class basic_selection_sort {
 
